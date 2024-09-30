@@ -1,5 +1,7 @@
 # Food-App-POE-part2
-This is the home page of the app where it has a list of the menu items you can choose from and it has a add menu items block where the chef can add menu items ![1](https://github.com/user-attachments/assets/df3bd6e7-1b91-4595-af4c-a9e6f384ddaf)
+This is the home page of the app where it has a list of the menu items you can choose from and it has a add menu items block where the chef can add menu items
+
+![1](https://github.com/user-attachments/assets/df3bd6e7-1b91-4595-af4c-a9e6f384ddaf)
 
 
 
